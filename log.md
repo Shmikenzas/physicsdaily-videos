@@ -8,3 +8,4 @@
 2026-11-10 | why ice cubes crack in a drink (thermal stress: warm shell vs cold core, flaws, clear ice) | inside-out | Why Ice Cubes Crack In Your Drink #shorts | https://www.youtube.com/watch?v=eThgb5nQpqM
 2026-11-10 | why a glass sounds higher as it fills (air column above water, closed-open pipe f=v/4L, 15 cm ~600 Hz vs 3 cm ~3000 Hz) | inside-out | Why Glasses Sound Higher When Filling #shorts | https://www.youtube.com/watch?v=my-3MgfUoB8
 2026-11-11 | why the sky is blue not violet (Rayleigh 1/λ⁴, sun emits less violet, absorbed high up, eye sensitivity; sunset long path) | inside-out | Why Is The Sky Blue, Not Violet? #shorts | https://www.youtube.com/watch?v=ukn6ymWrP_8
+2026-11-11 | why toast lands butter-side down (Matthews 1995: tips off 75 cm table, ~0.4 s fall, half turn; ~3 m table for butter-up) | inside-out | Why Does Toast Land Butter-Side Down? #shorts | https://www.youtube.com/watch?v=aiHFXGvKBEo
